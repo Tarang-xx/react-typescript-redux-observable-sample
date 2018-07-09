@@ -17,5 +17,6 @@ Tech Stack:-
 3.	React Redux 
 4.	Redux Observable (Epic Middleware)
 5.	React Material
-6.	HTML 5
-7.	CSS 3
+6.  RxJs (Reactive Javascript)
+7.	HTML 5
+8.	CSS 3
