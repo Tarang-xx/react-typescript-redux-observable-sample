@@ -4,7 +4,9 @@ A sample application for React with Typescript , Redux Observable Middleware and
 Steps to run this sample.
 
 > git clone https://github.com/Tarang-xx/react-typescript-redux-observable-sample.git
+
 > npm install / yarn install
+
 > npm start  / yarn start
 
 
