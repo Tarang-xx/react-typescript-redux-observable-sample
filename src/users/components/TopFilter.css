@@ -1,0 +1,14 @@
+.flexContainer {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  background-color: antiquewhite;
+}
+
+
+.flexContainer > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  width: 200px;
+  font-size: 30px;
+}
